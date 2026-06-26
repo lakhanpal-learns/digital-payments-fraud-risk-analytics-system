@@ -166,7 +166,7 @@ Provides a high-level overview of the digital payment ecosystem, including trans
 * Failure Rate
 * Average Latency
 
-![Executive Dashbored](<2 power bi/screenshot/executive_dashboard.png>)
+![2 power_bi/screenshot/executive_dashboard.png](<2 power_bi/screenshot/executive_dashboard.png>)
 
 
 ---
@@ -184,7 +184,7 @@ Monitors fraudulent activities, financial exposure, high-risk transactions, and 
 * Fraud Exposure Amount
 * High-Risk Transactions
 
-![fraud Dashbored](<2 power bi/screenshot/fraud_dashboard.png>)
+![fraud Dashbored](<2 power_bi/screenshot/fraud_dashboard.png>)
 
 ---
 
@@ -201,7 +201,7 @@ Tracks payment reliability, operational efficiency, transaction latency, retry b
 * Failed Transactions
 * Retry Rate
 
-![Payment Operations Dashboard](<2 power bi/screenshot/payment_operations.png>)
+![Payment Operations Dashboard](<2 power_bi/screenshot/payment_operations_dashboard.png>)
 
 ---
 
@@ -218,7 +218,7 @@ Analyzes merchant performance, customer activity, payment method usage, and reve
 * Average Transaction Value
 * Total Revenue
 
-![Merchant_customer](<2 power bi/screenshot/merchant_customer.png>)
+![Merchant_customer](<2 power_bi/screenshot/merchant_customer.png>)
 
 ## 🚀 Installation & Setup
 
